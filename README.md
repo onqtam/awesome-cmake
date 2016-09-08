@@ -14,7 +14,6 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 - [Package Management](#package-management)
 - [Modules](#modules)
 - [Utility Scripts](#utility-scripts)
-- [Compiler Flags](#compiler-flags)
 - [Toolchains](#toolchains)
 - [Tutorials/Examples/Templates](#tutorialsexamplestemplates)
 - [Other](#other)
@@ -34,7 +33,7 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 ## Modules
 
 * [rpavlik/cmake-modules](https://github.com/rpavlik/cmake-modules) - A collection of CMake modules. There are a number of find modules, especially for virtual reality and physical simulation, some utility modules, and some patches or workarounds for CMake itself. [BOOST][BOOST]
-* [bilke/cmake-modules](https://github.com/bilke/cmake-modules) - This is a collection of additional CMake modules. Most of them are from Ryan Pavlik. [BOOST][BOOST]/BSD
+* [bilke/cmake-modules](https://github.com/bilke/cmake-modules) - This is a collection of additional CMake modules. Most of them are from Ryan Pavlik. [BOOST][BOOST]
 * [Eyescale/CMake](https://github.com/Eyescale/CMake) - Common CMake modules. [BSD3][BSD-3-Clause]
 * [tcbrindle/sdl2-cmake-scripts](https://github.com/tcbrindle/sdl2-cmake-scripts) - CMake scripts for finding the SDL2, SDL2_image and SDL2_ttf libraries and headers. [BSD2][BSD-2-Clause]
 * [nerdvegas/vfxcmake](https://github.com/nerdvegas/vfxcmake) - CMake Find modules for common vfx software, and general CMake utility code. [LGPL][LGPL]
@@ -48,7 +47,7 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 
 ## Utility Scripts
 
-These provide a wide range of functionality. Some also contain modules but are a better fit in this category.
+These provide a wide range of functionality - from dealing with compiler flags to using tools. Some also contain modules.
 
 * [sakra/cotire](https://github.com/sakra/cotire) - Cotire (compile time reducer) is a CMake module that speeds up the build process of CMake based build systems by fully automating techniques as precompiled headers and unity builds for C and C++. [MIT][MIT]
 * [onqtam/ucm](https://github.com/onqtam/ucm) - For managing compiler/linker flags, collecting sources, precompiled headers, unity builds and others. [MIT][MIT]
@@ -56,6 +55,8 @@ These provide a wide range of functionality. Some also contain modules but are a
 * [ruslo/sugar](https://github.com/ruslo/sugar) - CMake tools and examples: collecting source files, warnings suppression, etc. [BSD2][BSD-2-Clause]
 * [Crascit/DownloadProject](https://github.com/Crascit/DownloadProject) - CMake module for downloading an external project's source at configure time. [MIT][MIT]
 * [janelia-flyem/buildem](https://github.com/janelia-flyem/buildem) - A modular CMake-based system that leverages ExternalProject to simplify builds. [LICENSE](https://github.com/janelia-flyem/buildem/blob/master/LICENSE.txt)
+* [JoakimSoderberg/coveralls-cmake](https://github.com/JoakimSoderberg/coveralls-cmake) - Coveralls JSON coverage generator and uploader for CMake. [MIT][MIT]
+* [foonathan/compatibility](https://github.com/foonathan/compatibility) - An improved version of cmake-compile-features. [LICENSE](https://github.com/foonathan/compatibility/blob/master/LICENSE)
 * [Tronic/cmake-modules](https://github.com/Tronic/cmake-modules) - LibFindMacros development repository and other cool CMake stuff. [LICENSE](https://github.com/Tronic/cmake-modules/blob/master/LibFindMacros.cmake#L2)
 * [UCL/GreatCMakeCookOff](https://github.com/UCL/GreatCMakeCookOff) - This is a repository of useful and less than useful CMake recipes. [MIT][MIT]
 * [polysquare/cppcheck-target-cmake](https://github.com/polysquare/cppcheck-target-cmake) - Per-target CPPCheck for CMake. [MIT][MIT]
@@ -64,14 +65,11 @@ These provide a wide range of functionality. Some also contain modules but are a
 * [polysquare/cmake-header-language](https://github.com/polysquare/cmake-header-language) - CMake macro to determine the language of a header file. [MIT][MIT]
 * [polysquare/tooling-cmake-util](https://github.com/polysquare/tooling-cmake-util) - Utility and common library for all polysquare CMake tools. [MIT][MIT]
 * [polysquare/iwyu-target-cmake](https://github.com/polysquare/iwyu-target-cmake) - CMake integration for include-what-you-use. [MIT][MIT]
-
-## Compiler Flags
-
-* [JoakimSoderberg/coveralls-cmake](https://github.com/JoakimSoderberg/coveralls-cmake) - Coveralls JSON coverage generator and uploader for CMake. [MIT][MIT]
-* [foonathan/compatibility](https://github.com/foonathan/compatibility) - An improved version of cmake-compile-features. [LICENSE](https://github.com/foonathan/compatibility/blob/master/LICENSE)
 * [arsenm/sanitizers-cmake](https://github.com/arsenm/sanitizers-cmake) - CMake module to enable sanitizers for binary targets. [MIT][MIT]
 * [larsch/cmake-precompiled-header](https://github.com/larsch/cmake-precompiled-header) - Visual Studio and GCC precompiled header macro. [LICENSE](https://github.com/larsch/cmake-precompiled-header/blob/master/PrecompiledHeader.cmake#L31)
 * [nanoant/CMakePCHCompiler](https://github.com/nanoant/CMakePCHCompiler) - CMake precompiled headers via custom compiler extension - with reuse support! [MIT][MIT]
+* [RWTH-ELP/CMake-codecov](https://github.com/RWTH-ELP/CMake-codecov) - Enables code coverage and generates coverage reports with CMake targets. [GPL][GPL]
+* [puppetlabs/leatherman](https://github.com/puppetlabs/leatherman) - A collection of C++ and CMake utility libraries. [APACHE 2][APACHE 2]
 
 ## Toolchains
 
@@ -92,6 +90,7 @@ These provide a wide range of functionality. Some also contain modules but are a
 * [skebanga/cmake_test](https://github.com/skebanga/cmake_test) - A small example project using CMake. [NO LICENSE]
 * [forexample/android-cmake](https://github.com/forexample/android-cmake) - Examples of using [ruslo/hunter](https://github.com/ruslo/hunter) package manager for an Android application. [BSD2][BSD-2-Clause]
 * [forexample/hunter-simple](https://github.com/forexample/hunter-simple) - Example of downloading/installing dependencies using [ruslo/hunter](https://github.com/ruslo/hunter) package manager. [BSD2][BSD-2-Clause]
+* [ruslo/weather](https://github.com/ruslo/weather) - Example of using [Hunter](http://github.com/ruslo/hunter) cross-platform package manager for CMake to build application which use Boost, CppNetlib.URI, GTest, JSON Spirit. Platforms: Windows (Visual Studio), Linux, Mac OS X + iOS. [BSD2][BSD-2-Clause]
 * [OutOfOrder/CMakeTemplates](https://github.com/OutOfOrder/CMakeTemplates) - A set of initial CMake templates that I use for every game port I work on. [NO LICENSE]
 * [krux02/minimal_cmake_example](https://github.com/krux02/minimal_cmake_example) - A minimal CMake example, that covers dependencies and packaging. [CC0-1.0][CC0-1.0]
 * [bast/cmake-example](https://github.com/bast/cmake-example) - Example project which demonstrates various CMake features. [BSD3][BSD-3-Clause]
@@ -104,6 +103,11 @@ These provide a wide range of functionality. Some also contain modules but are a
 * [cmake-basis/BASIS](https://github.com/cmake-basis/BASIS) - CMake [BASIS](https://cmake-basis.github.io) makes it easy to create sharable software and libraries that work together. [BSD2][BSD-2-Clause]
 * [ArthurSonzogni/OpenGL_CMake_Skeleton](https://github.com/ArthurSonzogni/OpenGL_CMake_Skeleton) -  A ready to use CMake skeleton using GLFW, Glew and glm. [MIT][MIT]
 * [JoakimSoderberg/coveralls-cmake-example](https://github.com/JoakimSoderberg/coveralls-cmake-example) - Example project for [coveralls-cmake](https://github.com/JoakimSoderberg/coveralls-cmake). [NO LICENSE]
+* [forexample/android-cmake](https://github.com/forexample/android-cmake) - Run Android application using CMake and [Hunter](https://github.com/ruslo/hunter) package manager. [BSD2][BSD-2-Clause]
+* [kartikkumar/cppbase](https://github.com/kartikkumar/cppbase) - A template for a simple CMake-based C++ project. [MIT][MIT]
+* [maxbader/Arduino-CMake-Template](https://github.com/maxbader/Arduino-CMake-Template) - Starting point for Arduino development using CMake. [NO LICENSE]
+* [fletcher/c-template](https://github.com/fletcher/c-template) - Boilerplate to set up a c project, include CuTest, cmake build setup. [MIT][MIT]
+* [duckie/cpp_project_template](https://github.com/duckie/cpp_project_template) - A simple template to start quickly a C++ project managed by CMake. [NO LICENSE]
 
 ## Other
 
