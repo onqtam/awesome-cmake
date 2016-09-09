@@ -103,7 +103,6 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cmake-basis/BASIS](https://github.com/cmake-basis/BASIS) - CMake [BASIS](https://cmake-basis.github.io) makes it easy to create sharable software and libraries that work together. [BSD2][BSD-2-Clause]
 * [ArthurSonzogni/OpenGL_CMake_Skeleton](https://github.com/ArthurSonzogni/OpenGL_CMake_Skeleton) -  A ready to use CMake skeleton using GLFW, Glew and glm. [MIT][MIT]
 * [JoakimSoderberg/coveralls-cmake-example](https://github.com/JoakimSoderberg/coveralls-cmake-example) - Example project for [coveralls-cmake](https://github.com/JoakimSoderberg/coveralls-cmake). [NO LICENSE]
-* [forexample/android-cmake](https://github.com/forexample/android-cmake) - Run Android application using CMake and [Hunter](https://github.com/ruslo/hunter) package manager. [BSD2][BSD-2-Clause]
 * [kartikkumar/cppbase](https://github.com/kartikkumar/cppbase) - A template for a simple CMake-based C++ project. [MIT][MIT]
 * [maxbader/Arduino-CMake-Template](https://github.com/maxbader/Arduino-CMake-Template) - Starting point for Arduino development using CMake. [NO LICENSE]
 * [fletcher/c-template](https://github.com/fletcher/c-template) - Boilerplate to set up a c project, include CuTest, cmake build setup. [MIT][MIT]
