@@ -33,6 +33,7 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 * [ruslo/hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++ (based on CMake ExternalProject). [BSD2][BSD-2-Clause]
 * [pfultz2/cget](https://github.com/pfultz2/cget) - CMake package retrieval. This can be used to download and install CMake packages. [BOOST][BOOST]
 * [iauns/cpm](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git. [MIT][MIT]
+* [conan-io/conan](https://github.com/conan-io/conan) - Conan C++ Package Manager, implemented in Python and has a CMake integration backend. [MIT][MIT]
 
 ## Modules
 
