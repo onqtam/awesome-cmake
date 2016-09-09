@@ -96,6 +96,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [forexample/android-cmake](https://github.com/forexample/android-cmake) - Examples of using [ruslo/hunter](https://github.com/ruslo/hunter) package manager for an Android application. [BSD2][BSD-2-Clause]
 * [forexample/hunter-simple](https://github.com/forexample/hunter-simple) - Example of downloading/installing dependencies using [ruslo/hunter](https://github.com/ruslo/hunter) package manager. [BSD2][BSD-2-Clause]
 * [ruslo/weather](https://github.com/ruslo/weather) - Example of using [Hunter](http://github.com/ruslo/hunter) cross-platform package manager for CMake to build application which use Boost, CppNetlib.URI, GTest, JSON Spirit. Platforms: Windows (Visual Studio), Linux, Mac OS X + iOS. [BSD2][BSD-2-Clause]
+* [forexample/package-example](https://github.com/forexample/package-example) - Config mode of find_package command (examples for [this](http://stackoverflow.com/questions/20746936/cmake-of-what-use-is-find-package-if-you-need-to-specify-cmake-module-path-an) SO question). [NO LICENSE]
 * [OutOfOrder/CMakeTemplates](https://github.com/OutOfOrder/CMakeTemplates) - A set of initial CMake templates that I use for every game port I work on. [NO LICENSE]
 * [krux02/minimal_cmake_example](https://github.com/krux02/minimal_cmake_example) - A minimal CMake example, that covers dependencies and packaging. [CC0-1.0][CC0-1.0]
 * [bast/cmake-example](https://github.com/bast/cmake-example) - Example project which demonstrates various CMake features. [BSD3][BSD-3-Clause]
