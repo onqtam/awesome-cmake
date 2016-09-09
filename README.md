@@ -23,6 +23,10 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 * [ruslo/CGold](https://github.com/ruslo/CGold) - The Hitchhiker’s [Guide](https://cgold.readthedocs.io) to the CMake. [BSD2][BSD-2-Clause]
 * [Article](https://foonathan.github.io/blog/2016/07/07/cmake-dependency-handling.html) - Easy dependency management for C++ with CMake and Git.
 * [Article](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/) - Opt-in header-only libraries with CMake.
+* [Modern CMake](https://github.com/toeb/moderncmake/) Modern CMake PDF and samples by creator of [cmakepp](https://github.com/toeb/cmakepp).
+* [Ultimate Guide to Modern CMake](https://rix0r.nl/blog/2015/08/13/cmake-guide/) 
+* [Older Modern CMake](https://meetingcpp.com/index.php/talkview13/items/13.html) Modern CMake for C++.
+
 
 ## Package Management
 
