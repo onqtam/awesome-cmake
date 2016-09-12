@@ -78,6 +78,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 
 ## Toolchains
 
+* [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images. [MIT][MIT]
 * [taka-no-me/android-cmake](https://github.com/taka-no-me/android-cmake) - CMake toolchain file and other scripts for the Android NDK. [BSD3][BSD-3-Clause]
 * [cristeab/ios-cmake](https://github.com/cristeab/ios-cmake) - A toolchain file and examples using CMake for iOS development. [BSD3][BSD-3-Clause]
 * [LaurentGomila/qt-android-cmake](https://github.com/LaurentGomila/qt-android-cmake) - For building and deploying Qt based apps on Android without QtCreator. [LICENSE](https://github.com/LaurentGomila/qt-android-cmake/blob/master/license.txt)
