@@ -119,6 +119,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [coderefinery/autocmake](https://github.com/coderefinery/autocmake) - Using a autocmake.yml file [Autocmake](http://autocmake.readthedocs.io/en/latest/) composes CMake building blocks into a CMake project and generates CMakeLists.txt as well as a setup script, which serves as a front-end to CMakeLists.txt. [BSD3][BSD-3-Clause]
 * [kmorel/UseLATEX](https://github.com/kmorel/UseLATEX) - A collection of CMake macros to simplify building LaTeX files. [BSD3][BSD-3-Clause]
 * [python-cmake-buildsystem/python-cmake-buildsystem](https://github.com/python-cmake-buildsystem/python-cmake-buildsystem) - A replacement buildsystem for CPython. [APACHE 2][APACHE 2]
+* [scikit-build/scikit-build](https://github.com/scikit-build/scikit-build) - Improved build system generator for CPython C extensions. [MIT][MIT]
 * [jesperes/protobuf-cmake](https://github.com/jesperes/protobuf-cmake) - CMake build support for Google Protobufs. [BSD3][BSD-3-Clause]
 * [cjntaylor/node-cmake](https://github.com/cjntaylor/node-cmake) - CMake-based build system for node.js native modules. [ISC][ISC]
 * [Lindydancer/cmake-font-lock](https://github.com/Lindydancer/cmake-font-lock) - Advanced syntax coloring support for CMake scripts inside Emacs. [GPL][GPL]
