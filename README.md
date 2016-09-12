@@ -34,6 +34,7 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 * [pfultz2/cget](https://github.com/pfultz2/cget) - CMake package retrieval. This can be used to download and install CMake packages. [BOOST][BOOST]
 * [iauns/cpm](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git. [MIT][MIT]
 * [conan-io/conan](https://github.com/conan-io/conan) - Conan C++ Package Manager, implemented in Python and has a CMake integration backend. [MIT][MIT]
+* [floooh/fips](https://github.com/floooh/fips) - High-level build system/dependency management for distributed, multi-platform C/C++ projects. [MIT][MIT]
 
 ## Modules
 
