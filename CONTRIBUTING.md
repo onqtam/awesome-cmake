@@ -9,7 +9,7 @@
 * Add new licenses (such that no other project uses) to the bottom of the page for easy referencing.
 * New categories, or improvements to the existing ones are also welcome.
 * Make sure your text editor is set to remove trailing whitespace.
-* It is desirable for the whole thing to fit on one line after getting rendered by github.
+* It is desirable for the whole thing to fit on one line after getting rendered by GitHub.
 * The mentioning of 'CMake' in the description should have the first 2 letters as capital.
 
 ## Quality standard
