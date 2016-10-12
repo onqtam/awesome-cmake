@@ -32,7 +32,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Wiki](https://cmake.org/Wiki/CMake)
 * [Webinars](https://cmake.org/webinars/)
 * [CGold](https://github.com/ruslo/CGold) - The Hitchhiker’s [Guide](https://cgold.readthedocs.io) to the CMake. [```[BSD2]```][BSD-2-Clause]
-* [Modern CMake](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by creator of [cmakepp](https://github.com/toeb/cmakepp). [```[MIT]```][MIT]
+* [Modern CMake](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp](https://github.com/toeb/cmakepp). [```[MIT]```][MIT]
 * [Article - Easy dependency management for C++ with CMake and Git](https://foonathan.github.io/blog/2016/07/07/cmake-dependency-handling.html).
 * [Article - Opt-in header-only libraries with CMake](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/).
 * [Article - Ultimate Guide to Modern CMake](https://rix0r.nl/blog/2015/08/13/cmake-guide/) 
