@@ -141,7 +141,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [catkin](https://github.com/ros/catkin) - CMake-based build system that is used to build all packages in Robot Operating System (ROS). [```[BSD3]```][BSD-3-Clause]
 * [suitesparse-metis-for-windows](https://github.com/jlblancoc/suitesparse-metis-for-windows) - CMake scripts for painless usage of SuiteSparse+METIS. [```[BSD3]```][BSD-3-Clause]
 * [cython-cmake-example](https://github.com/thewtex/cython-cmake-example) - Utilities and example for using CMake to build Cython modules. [```[LICENSE]```](https://github.com/thewtex/cython-cmake-example/blob/master/LICENSE)
-* [osg-3rdparty-cmake](https://github.com/bjornblissing/osg-3rdparty-cmake) - CMake scripts for building OpenSceneGraph third party libraries. ```[NO LICENSE]```
+* [osg-3rdparty-cmake](https://github.com/bjornblissing/osg-3rdparty-cmake) - CMake scripts for building OpenSceneGraph third party libraries. ```[MIXED LICENSE]```
 * [cmake-d](https://github.com/dcarp/cmake-d) - CMake for D2. [```[MIT]```][MIT]
 * [cmakeprojectmanager2](https://github.com/h4tr3d/cmakeprojectmanager2) - Enhanced CMake Project Manager plugin for Qt Creator. ```[NO LICENSE]```
 * [ycm](https://github.com/robotology/ycm) - Extra CMake Modules for [Yet Another Robot Platform](https://github.com/robotology/yarp) and friends. [```[BSD2]```][BSD-2-Clause]
