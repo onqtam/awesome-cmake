@@ -37,6 +37,8 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Article - Opt-in header-only libraries with CMake](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/).
 * [Article - Ultimate Guide to Modern CMake](https://rix0r.nl/blog/2015/08/13/cmake-guide/)
 * [Article - A list of common CMake antipatterns (from 2013 but still relevant)](http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/).
+* [Article - How to Build a CMake-Based Project](http://preshing.com/20170511/how-to-build-a-cmake-based-project/).
+* [Article - The architecture of CMake](http://aosabook.org/en/cmake.html).
 
 ## Package Management / Build Systems
 
