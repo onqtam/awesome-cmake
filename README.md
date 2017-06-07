@@ -39,6 +39,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Article - A list of common CMake antipatterns (from 2013 but still relevant)](http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/).
 * [Article - How to Build a CMake-Based Project](http://preshing.com/20170511/how-to-build-a-cmake-based-project/).
 * [Article - The architecture of CMake](http://aosabook.org/en/cmake.html).
+* [Lecture - Effective CMake - by Daniel Pfeife, C++Now 2017](https://www.youtube.com/watch?v=bsXLMQ6WgIk).
 
 ## Package Management / Build Systems
 
