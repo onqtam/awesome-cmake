@@ -38,6 +38,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Article - Ultimate Guide to Modern CMake](https://rix0r.nl/blog/2015/08/13/cmake-guide/)
 * [Article - A list of common CMake antipatterns (from 2013 but still relevant)](http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/).
 * [Article - How to Build a CMake-Based Project](http://preshing.com/20170511/how-to-build-a-cmake-based-project/).
+* [Article - Learn CMake's Scripting Language in 15 Minutes](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/).
 * [Article - The architecture of CMake](http://aosabook.org/en/cmake.html).
 * [Lecture - Effective CMake - by Daniel Pfeife, C++Now 2017](https://www.youtube.com/watch?v=bsXLMQ6WgIk).
 
