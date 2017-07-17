@@ -40,7 +40,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Article - How to Build a CMake-Based Project](http://preshing.com/20170511/how-to-build-a-cmake-based-project/).
 * [Article - Learn CMake's Scripting Language in 15 Minutes](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/).
 * [Article - The architecture of CMake](http://aosabook.org/en/cmake.html).
-* [Lecture - Effective CMake - by Daniel Pfeife, C++Now 2017](https://www.youtube.com/watch?v=bsXLMQ6WgIk).
+* [Lecture - Effective CMake - by Daniel Pfeifer, C++Now 2017](https://www.youtube.com/watch?v=bsXLMQ6WgIk).
 
 ## Package Management / Build Systems
 
