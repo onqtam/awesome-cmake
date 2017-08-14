@@ -41,6 +41,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Article - Learn CMake's Scripting Language in 15 Minutes](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/).
 * [Article - The architecture of CMake](http://aosabook.org/en/cmake.html).
 * [Lecture - Effective CMake - by Daniel Pfeifer, C++Now 2017](https://www.youtube.com/watch?v=bsXLMQ6WgIk).
+* [Article - Building Cross-Platform CUDA Applications with CMake](https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/).
 
 ## Package Management / Build Systems
 
