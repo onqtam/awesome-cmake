@@ -135,6 +135,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [c-template](https://github.com/fletcher/c-template) - Boilerplate to set up a c project, include CuTest, CMake build setup. [```[MIT]```][MIT]
 * [cpp_project_template](https://github.com/duckie/cpp_project_template) - Simple template to start quickly a C++ project managed by CMake. ```[NO LICENSE]```
 * [cpp-boilerplate](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI [```[MIT]```][MIT]
+* [ci_helloworld](https://github.com/ainfosec/ci_helloworld) - A simple example of how to setup a complete CI environment for C and C++ [```[MIT]```][MIT]
 
 ## Other
 
