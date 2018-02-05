@@ -135,7 +135,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cppbase](https://github.com/kartikkumar/cppbase) - Template for a simple CMake-based C++ project. [```[MIT]```][MIT]
 * [Arduino-CMake-Template](https://github.com/maxbader/Arduino-CMake-Template) - Starting point for Arduino development using CMake. ```[NO LICENSE]```
 * [c-template](https://github.com/fletcher/c-template) - Boilerplate to set up a c project, include CuTest, CMake build setup. [```[MIT]```][MIT]
-* [cpp_project_template](https://github.com/duckie/cpp_project_template) - Simple template to start quickly a C++ project managed by CMake. ```[NO LICENSE]```
+* [cpp_project_template](https://github.com/duckie/cpp_project_template) - Simple template to start quickly a C++ project managed by CMake. [```[MIT]```][MIT]
 * [cpp-boilerplate](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [```[MIT]```][MIT]
 * [ci_helloworld](https://github.com/ainfosec/ci_helloworld) - A simple example of how to setup a complete CI environment for C and C++. [```[MIT]```][MIT]
 * [how-to-export-cpp-library](https://github.com/robotology/how-to-export-cpp-library) - An OS-agnostic C++ library template sporting ctest and CI support, written in plain CMake with line-by-line guiding comments. [```[MIT]```][MIT]
@@ -149,7 +149,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [protobuf-cmake](https://github.com/jesperes/protobuf-cmake) - CMake build support for Google Protobufs. [```[BSD3]```][BSD-3-Clause]
 * [node-cmake](https://github.com/cjntaylor/node-cmake) - CMake-based build system for node.js native modules. [```[ISC]```][ISC]
 * [cmake-font-lock](https://github.com/Lindydancer/cmake-font-lock) - Advanced syntax coloring support for CMake scripts inside Emacs. [```[GPL]```][GPL]
-* [stm32-cmake](https://github.com/ObKo/stm32-cmake) - Used to develop applications for the STM32 - ST's ARM Cortex-M0(3,4,7) MCUs. ```[NO LICENSE]```
+* [stm32-cmake](https://github.com/ObKo/stm32-cmake) - Used to develop applications for the STM32 - ST's ARM Cortex-M0(3,4,7) MCUs. [```[MIT]```][MIT]
 * [autovala](https://github.com/rastersoft/autovala) - Program that automatically generates CMake configuration files for your Vala project. [```[GPL]```][GPL]
 * [catkin](https://github.com/ros/catkin) - CMake-based build system that is used to build all packages in Robot Operating System (ROS). [```[BSD3]```][BSD-3-Clause]
 * [suitesparse-metis-for-windows](https://github.com/jlblancoc/suitesparse-metis-for-windows) - CMake scripts for painless usage of SuiteSparse+METIS. [```[BSD3]```][BSD-3-Clause]
@@ -161,7 +161,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cmake-lint](https://github.com/richq/cmake-lint) - Check for coding style issues in CMake files. cmakelint requires Python. [```[APACHE2]```][APACHE2]
 * [git-cmake-format](https://github.com/kbenzie/git-cmake-format) - Integrate clang-format into your CMake project hosted in a git repository. [```[LICENSE]```](https://github.com/kbenzie/git-cmake-format/blob/master/license.txt)
 * [configure-cmake](https://github.com/nemequ/configure-cmake) - configure-cmake is an autotools-style configure script for CMake-based projects. [```[CC0-1.0]```][CC0-1.0]
-* [tbb](https://github.com/wjakob/tbb) - Threading Building Blocks with CMake build. ```[NO LICENSE]```
+* [tbb](https://github.com/wjakob/tbb) - Threading Building Blocks with CMake build. [```[APACHE2]```][APACHE2]
 * [sqlite.cmake.build](https://github.com/snikulov/sqlite.cmake.build) - CMake script for sqlite amalgamation. ```[NO LICENSE]```
 * [cmake-ast](https://github.com/polysquare/cmake-ast) - Python module to reduce a CMake file to an AST. [```[MIT]```][MIT]
 
