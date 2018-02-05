@@ -46,6 +46,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Tutorial - A step-by-step guide for understanding CMake](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake).
 * [Article + Lecture - Embracing Modern CMake - by Stephen Kelly](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/).
 * [Lecture - CppCon 2017: Mathieu Ropert “Modern CMake for Modular Design”](https://www.youtube.com/watch?v=eC9-iRN2b04).
+* [Article - Modern C++ CI (although it uses non-modern CMake like ```include_directories()```)](https://juan-medina.com/2017/07/01/moderncppci/).
 
 ## Package Management / Build Systems
 
@@ -141,6 +142,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cpp-boilerplate](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [```[MIT]```][MIT]
 * [ci_helloworld](https://github.com/ainfosec/ci_helloworld) - A simple example of how to setup a complete CI environment for C and C++. [```[MIT]```][MIT]
 * [how-to-export-cpp-library](https://github.com/robotology/how-to-export-cpp-library) - An OS-agnostic C++ library template sporting ctest and CI support, written in plain CMake with line-by-line guiding comments. [```[MIT]```][MIT]
+* [ModernCppCI](https://github.com/LearningByExample/ModernCppCI) - An example of doing a Modern C++ project with CI (although it uses non-modern CMake like ```include_directories()```). [```[MIT]```][MIT]
 
 ## Other
 
