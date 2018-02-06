@@ -168,6 +168,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [tbb](https://github.com/wjakob/tbb) - Threading Building Blocks with CMake build. [```[APACHE2]```][APACHE2]
 * [sqlite.cmake.build](https://github.com/snikulov/sqlite.cmake.build) - CMake script for sqlite amalgamation. ```[NO LICENSE]```
 * [cmake-ast](https://github.com/polysquare/cmake-ast) - Python module to reduce a CMake file to an AST. [```[MIT]```][MIT]
+* [cmake_format](https://github.com/cheshirekow/cmake_format) - Source code formatter for CMakeLists.txt files. [```[GPL]```][GPL]
 
 ## License
 
