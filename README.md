@@ -145,6 +145,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [how-to-export-cpp-library](https://github.com/robotology/how-to-export-cpp-library) - An OS-agnostic C++ library template sporting ctest and CI support, written in plain CMake with line-by-line guiding comments. [```[MIT]```][MIT]
 * [ModernCppCI](https://github.com/LearningByExample/ModernCppCI) - An example of doing a Modern C++ project with CI (although it uses non-modern CMake like ```include_directories()```). [```[MIT]```][MIT]
 * [modern-cmake-sample](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. ```[NO LICENSE]```
+* [CMakeInstallExample](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (Windows) with Cmake. ```[NO LICENSE]```
 
 ## Other
 
