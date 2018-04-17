@@ -146,6 +146,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [ModernCppCI](https://github.com/LearningByExample/ModernCppCI) - An example of doing a Modern C++ project with CI (although it uses non-modern CMake like ```include_directories()```). [```[MIT]```][MIT]
 * [modern-cmake-sample](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. ```[NO LICENSE]```
 * [CMakeInstallExample](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (Windows) with Cmake. ```[NO LICENSE]```
+* [cpp14-project-template](https://github.com/arnavb/cpp14-project-template) - A C++14 project template with CI, tests, code coverage, doxygen and static analysis integration. [```[CC0-1.0]```][CC0-1.0]
 
 ## Other
 
