@@ -50,6 +50,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Article - It's Time To Do CMake Right](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) (one of the best articles about CMake).
 * [Article - Basic CMake usage](https://codingnest.com/basic-cmake/)
 * [Lecture - Introduction to CMake - by Florent Castelli, C++ Sweden 2018](https://www.youtube.com/watch?v=jt3meXdP-QI).
+* [Article - Some nice and accurate CMake tips](http://bastian.rieck.me/blog/posts/2018/cmake_tips/)
 
 ## Package Management / Build Systems
 
