@@ -51,6 +51,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Article - Basic CMake usage](https://codingnest.com/basic-cmake/)
 * [Lecture - Introduction to CMake - by Florent Castelli, C++ Sweden 2018](https://www.youtube.com/watch?v=jt3meXdP-QI).
 * [Article - Some nice and accurate CMake tips](http://bastian.rieck.me/blog/posts/2018/cmake_tips/)
+* [Article - Modern CMake for Library Developers](http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/)
 
 ## Package Management / Build Systems
 
