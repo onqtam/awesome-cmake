@@ -156,6 +156,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cpp14-project-template](https://github.com/arnavb/cpp14-project-template) - A C++14 template with CI, tests, code coverage, docs and static analysis integration. [```[CC0-1.0]```][CC0-1.0]
 * [cmake_templates](https://github.com/acdemiralp/cmake_templates) - Templates for creating C++ libraries and executables (including conan). ```[NO LICENSE]```
 * [cmake_snippets](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [```[BSD3]```][BSD-3-Clause]
+* [cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook) - A huge CMake cookbook full of recipes. [```[MIT]```][MIT]
 
 ## Other
 
