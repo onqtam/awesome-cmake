@@ -48,7 +48,9 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Lecture - CppCon 2017: Mathieu Ropert “Modern CMake for Modular Design”](https://www.youtube.com/watch?v=eC9-iRN2b04).
 * [Article - Modern C++ CI (although it uses non-modern CMake like ```include_directories()```)](https://juan-medina.com/2017/07/01/moderncppci/).
 * [Article - It's Time To Do CMake Right](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) (one of the best articles about CMake).
-* [Article - Basic CMake usage](https://codingnest.com/basic-cmake/)
+* Articles - A series on CMake - by Martin Hořeňovský
+    * [Basic CMake usage](https://codingnest.com/basic-cmake/)
+    * [Basic CMake, part 2: libraries](https://codingnest.com/basic-cmake-part-2/)
 * [Lecture - Introduction to CMake - by Florent Castelli, C++ Sweden 2018](https://www.youtube.com/watch?v=jt3meXdP-QI).
 * [Article - Some nice and accurate CMake tips](http://bastian.rieck.me/blog/posts/2018/cmake_tips/)
 * [Article - Modern CMake for Library Developers](http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/)
