@@ -55,6 +55,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Article - Some nice and accurate CMake tips](http://bastian.rieck.me/blog/posts/2018/cmake_tips/)
 * [Article - Modern CMake for Library Developers](http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/)
 * [Article - Effective Modern CMake: a great summary of most good practices - by Manuel Binna](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
+* [Book - Professional CMake: A Practical Guide (paid)](https://crascit.com/professional-cmake/)
 
 ## Package Management / Build Systems
 
