@@ -49,15 +49,15 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Article - Modern C++ CI (although it uses non-modern CMake like ```include_directories()```)](https://juan-medina.com/2017/07/01/moderncppci/).
 * [Article - It's Time To Do CMake Right](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) (one of the best articles about CMake).
 * Articles - A series on CMake - by Martin Hořeňovský
-    * [Basic CMake usage](https://codingnest.com/basic-cmake/)
-    * [Basic CMake, part 2: libraries](https://codingnest.com/basic-cmake-part-2/)
+    * [Basic CMake usage](https://codingnest.com/basic-cmake/).
+    * [Basic CMake, part 2: libraries](https://codingnest.com/basic-cmake-part-2/).
 * [Lecture - Introduction to CMake - by Florent Castelli, C++ Sweden 2018](https://www.youtube.com/watch?v=jt3meXdP-QI).
-* [Article - Some nice and accurate CMake tips](http://bastian.rieck.me/blog/posts/2018/cmake_tips/)
-* [Article - Modern CMake for Library Developers](http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/)
-* [Article - Effective Modern CMake: a great summary of most good practices - by Manuel Binna](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
-* [Book - Professional CMake: A Practical Guide (paid)](https://crascit.com/professional-cmake/)
-* [Book - Effective CMake: Practical Advice to Write Better CMake (not fully written yet)](https://leanpub.com/effective-cmake)
-* [Web Book - An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+* [Article - Some nice and accurate CMake tips](http://bastian.rieck.me/blog/posts/2018/cmake_tips/).
+* [Article - Modern CMake for Library Developers](http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/).
+* [Article - Effective Modern CMake: a great summary of most good practices - by Manuel Binna](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1).
+* [Book - Professional CMake: A Practical Guide (paid)](https://crascit.com/professional-cmake/).
+* [Book - Effective CMake: Practical Advice to Write Better CMake (not fully written yet)](https://leanpub.com/effective-cmake).
+* [Web Book - An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/).
 
 ## Package Management / Build Systems
 
