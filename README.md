@@ -58,6 +58,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Book](https://crascit.com/professional-cmake/) - Professional CMake: A Practical Guide (paid).
 * [Book](https://leanpub.com/effective-cmake) - Effective CMake: Practical Advice to Write Better CMake (not fully written yet).
 * [Web Book](https://cliutils.gitlab.io/modern-cmake/) - An Introduction to Modern CMake.
+* [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html) - How to CMake Good. [```[CC0-1.0]```][CC0-1.0]
 
 ## Package Management / Build Systems
 
