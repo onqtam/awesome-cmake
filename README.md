@@ -31,33 +31,33 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [FAQ](https://cmake.org/Wiki/CMake_FAQ)
 * [Wiki](https://cmake.org/Wiki/CMake)
 * [Webinars](https://cmake.org/webinars/)
-* [CGold](https://github.com/ruslo/CGold) - The Hitchhiker’s [Guide](https://cgold.readthedocs.io) to the CMake. [```[BSD2]```][BSD-2-Clause]
+* [Web Book](https://github.com/ruslo/CGold) - CGold: The Hitchhiker’s [Guide](https://cgold.readthedocs.io) to the CMake. [```[BSD2]```][BSD-2-Clause]
 * [Modern CMake](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp](https://github.com/toeb/cmakepp). [```[MIT]```][MIT]
-* [Article - Easily supporting CMake install and find_package()](http://foonathan.net/blog/2016/03/03/cmake-install.html).
-* [Article - Easy dependency management for C++ with CMake and Git](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html).
-* [Article - Opt-in header-only libraries with CMake](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/).
-* [Article - Ultimate Guide to Modern CMake](https://rix0r.nl/blog/2015/08/13/cmake-guide/).
-* [Article - A list of common CMake antipatterns (from 2013 but still relevant)](http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/).
-* [Article - How to Build a CMake-Based Project](http://preshing.com/20170511/how-to-build-a-cmake-based-project/).
-* [Article - Learn CMake's Scripting Language in 15 Minutes](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/).
-* [Article - The architecture of CMake](http://aosabook.org/en/cmake.html).
-* [Lecture - Effective CMake - by Daniel Pfeifer, C++Now 2017](https://www.youtube.com/watch?v=bsXLMQ6WgIk).
-* [Article - Building Cross-Platform CUDA Applications with CMake](https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/).
-* [Tutorial - A step-by-step guide for understanding CMake](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake).
-* [Article + Lecture - Embracing Modern CMake - by Stephen Kelly](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/).
-* [Lecture - CppCon 2017: Mathieu Ropert “Modern CMake for Modular Design”](https://www.youtube.com/watch?v=eC9-iRN2b04).
-* [Article - Modern C++ CI (although it uses non-modern CMake like ```include_directories()```)](https://juan-medina.com/2017/07/01/moderncppci/).
-* [Article - It's Time To Do CMake Right](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) (one of the best articles about CMake).
+* [Article](http://foonathan.net/blog/2016/03/03/cmake-install.html) - Easily supporting CMake install and find_package().
+* [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) - Easy dependency management for C++ with CMake and Git.
+* [Article](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/) - Opt-in header-only libraries with CMake.
+* [Article](https://rix0r.nl/blog/2015/08/13/cmake-guide/) - Ultimate Guide to Modern CMake.
+* [Article](http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/) - A list of common CMake antipatterns (from 2013 but still relevant).
+* [Article](http://preshing.com/20170511/how-to-build-a-cmake-based-project/) - How to Build a CMake-Based Project.
+* [Article](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/) - Learn CMake's Scripting Language in 15 Minutes.
+* [Article](http://aosabook.org/en/cmake.html) - The architecture of CMake.
+* [Lecture](https://www.youtube.com/watch?v=bsXLMQ6WgIk) - Effective CMake - by Daniel Pfeifer, C++Now 2017.
+* [Article](https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/) - Building Cross-Platform CUDA Applications with CMake.
+* [Tutorial](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake) - A step-by-step guide for understanding CMake.
+* [Article + Lecture](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/) - Embracing Modern CMake - by Stephen Kelly.
+* [Lecture](https://www.youtube.com/watch?v=eC9-iRN2b04) - Modern CMake for Modular Design - by Mathieu Ropert, CppCon 2017.
+* [Article](https://juan-medina.com/2017/07/01/moderncppci/) - Modern C++ CI (although it uses non-modern CMake like ```include_directories()```).
+* [Article](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) - It's Time To Do CMake Right (one of the best articles about CMake).
 * Articles - A series on CMake - by Martin Hořeňovský
     * [Basic CMake usage](https://codingnest.com/basic-cmake/).
     * [Basic CMake, part 2: libraries](https://codingnest.com/basic-cmake-part-2/).
-* [Lecture - Introduction to CMake - by Florent Castelli, C++ Sweden 2018](https://www.youtube.com/watch?v=jt3meXdP-QI).
-* [Article - Some nice and accurate CMake tips](http://bastian.rieck.me/blog/posts/2018/cmake_tips/).
-* [Article - Modern CMake for Library Developers](http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/).
-* [Article - Effective Modern CMake: a great summary of most good practices - by Manuel Binna](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1).
-* [Book - Professional CMake: A Practical Guide (paid)](https://crascit.com/professional-cmake/).
-* [Book - Effective CMake: Practical Advice to Write Better CMake (not fully written yet)](https://leanpub.com/effective-cmake).
-* [Web Book - An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/).
+* [Lecture](https://www.youtube.com/watch?v=jt3meXdP-QI) - Introduction to CMake - by Florent Castelli, C++ Sweden 2018.
+* [Article](http://bastian.rieck.me/blog/posts/2018/cmake_tips/) - Some nice and accurate CMake tips.
+* [Article](http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/) - Modern CMake for Library Developers.
+* [Article](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1) - Effective Modern CMake: a great summary of most good practices - by Manuel Binna.
+* [Book](https://crascit.com/professional-cmake/) - Professional CMake: A Practical Guide (paid).
+* [Book](https://leanpub.com/effective-cmake) - Effective CMake: Practical Advice to Write Better CMake (not fully written yet).
+* [Web Book](https://cliutils.gitlab.io/modern-cmake/) - An Introduction to Modern CMake.
 
 ## Package Management / Build Systems
 
