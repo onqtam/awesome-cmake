@@ -170,7 +170,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 ## Other
 
 * [autocmake](https://github.com/coderefinery/autocmake) - Using a autocmake.yml file [Autocmake](http://autocmake.readthedocs.io/en/latest/) composes CMake building blocks into a CMake project and generates CMakeLists.txt as well as a setup script, which serves as a front-end to CMakeLists.txt. [```[BSD3]```][BSD-3-Clause]
-* [UseLATEX](https://github.com/kmorel/UseLATEX) - Collection of CMake macros to simplify building LaTeX files. [```[BSD3]```][BSD-3-Clause]
+* [UseLATEX](https://gitlab.kitware.com/kmorel/UseLATEX) - Collection of CMake macros to simplify building LaTeX files. [```[BSD3]```][BSD-3-Clause]
 * [python-cmake-buildsystem](https://github.com/python-cmake-buildsystem/python-cmake-buildsystem) - Replacement buildsystem for CPython. [```[APACHE2]```][APACHE2]
 * [scikit-build](https://github.com/scikit-build/scikit-build) - Improved build system generator for CPython C extensions. [```[MIT]```][MIT]
 * [protobuf-cmake](https://github.com/jesperes/protobuf-cmake) - CMake build support for Google Protobufs. [```[BSD3]```][BSD-3-Clause]
