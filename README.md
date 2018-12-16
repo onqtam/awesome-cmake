@@ -166,6 +166,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook) - A huge CMake cookbook full of recipes. [```[MIT]```][MIT]
 * [cpp-template](https://github.com/joshpeterson/cpp-template) - A template C++ repository, using CMake and Catch. ```[NO LICENSE]```
 * [pitchfork](https://github.com/vector-of-bool/pitchfork) - A set of conventions for native C and C++ projects. [```[MIT]```][MIT]
+* [cleanCppProject](https://github.com/kracejic/cleanCppProject) - A clean C++ project template using modern CMake, with packaging, tests, docs, static/dynamic analysis, CI. [```[MIT]```][MIT]
 
 ## Other
 
