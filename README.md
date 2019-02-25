@@ -59,7 +59,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Book](https://leanpub.com/effective-cmake) - Effective CMake: Practical Advice to Write Better CMake (not fully written yet).
 * [Web Book](https://cliutils.gitlab.io/modern-cmake/) - An Introduction to Modern CMake.
 * [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html) - How to CMake Good. [```[CC0-1.0]```][CC0-1.0]
-* [Lecture](https://www.youtube.com/watch?v=TsddSCzYiRs) - More Modern CMake - by Deniz Bahadir, Meeting C++ 2018.
+* [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - More Modern CMake - by Deniz Bahadir, Meeting C++ 2018.
 
 ## Package Management / Build Systems
 
