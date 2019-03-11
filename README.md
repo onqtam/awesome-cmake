@@ -170,7 +170,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cpp-template](https://github.com/joshpeterson/cpp-template) - A template C++ repository, using CMake and Catch. ```[NO LICENSE]```
 * [pitchfork](https://github.com/vector-of-bool/pitchfork) - A set of conventions for native C and C++ projects. [```[MIT]```][MIT]
 * [cleanCppProject](https://github.com/kracejic/cleanCppProject) - A project template using modern CMake, with packaging, tests, docs, static/dynamic analysis, CI. [```[MIT]```][MIT]
-* [cmake-examples](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects. ```[NO LICENSE]```
+* [cmake-examples](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects. [```[MIT]```][MIT]
 
 ## Other
 
