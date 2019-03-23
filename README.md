@@ -118,6 +118,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [CMake-codecov](https://github.com/RWTH-ELP/CMake-codecov) - Enables code coverage and generates coverage reports with CMake targets. [```[GPL]```][GPL]
 * [leatherman](https://github.com/puppetlabs/leatherman) - Collection of C++ and CMake utility libraries. [```[APACHE2]```][APACHE2]
 * [cmake-get](https://github.com/pfultz2/cmake-get) - Get dependencies in config or script mode. ```[NO LICENSE]```
+* [ixm](https://github.com/slurps-mad-rips/ixm) - Make CMake less painful when trying to write Modern Flexible CMake.  [```[MIT]```][MIT]
 
 ## Toolchains
 
