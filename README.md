@@ -61,6 +61,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html) - How to CMake Good. [```[CC0-1.0]```][CC0-1.0]
 * [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - More Modern CMake - by Deniz Bahadir, Meeting C++ 2018.
 * [Article](https://cristianadam.eu/20190223/modifying-the-default-cmake-build-types/) - Modifying the default CMake build types/flags, toolchains and patches - Oh my! - by Cristian Adam.
+* [Article](https://izzys.casa/2019/02/everything-you-never-wanted-to-know-about-cmake/) - Everything You Never Wanted to Know about CMake.
 
 ## Package Management / Build Systems
 
