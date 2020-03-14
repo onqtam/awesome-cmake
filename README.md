@@ -28,8 +28,8 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 ## Resources
 
 * [Latest Documentation](https://cmake.org/cmake/help/latest/)
-* [FAQ](https://cmake.org/Wiki/CMake_FAQ)
-* [Wiki](https://cmake.org/Wiki/CMake)
+* [FAQ](https://gitlab.kitware.com/cmake/community/-/wikis/FAQ)
+* [Wiki](https://gitlab.kitware.com/cmake/community/-/wikis/home)
 * [Webinars](https://cmake.org/webinars/)
 * [Web Book](https://github.com/ruslo/CGold) - CGold: The Hitchhiker’s [Guide](https://cgold.readthedocs.io) to the CMake. [```[BSD2]```][BSD-2-Clause]
 * [Modern CMake](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp](https://github.com/toeb/cmakepp). [```[MIT]```][MIT]
