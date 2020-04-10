@@ -33,6 +33,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [Webinars](https://cmake.org/webinars/)
 * [Web Book](https://github.com/ruslo/CGold) - CGold: The Hitchhiker’s [Guide](https://cgold.readthedocs.io) to the CMake. [```[BSD2]```][BSD-2-Clause]
 * [Modern CMake](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp](https://github.com/toeb/cmakepp). [```[MIT]```][MIT]
+* [Tutorial](https://www.siliceum.com/en/blog/post/cmake_01_cmake-basics) - Modern CMake tutorials part1: CMake basics
 * [Article](http://foonathan.net/blog/2016/03/03/cmake-install.html) - Easily supporting CMake install and find_package().
 * [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) - Easy dependency management for C++ with CMake and Git.
 * [Article](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/) - Opt-in header-only libraries with CMake.
