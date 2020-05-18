@@ -22,7 +22,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.
 * [```#cmake``` on Freenode](http://webchat.freenode.net/?channels=cmake)
 * [```/r/cmake``` on Reddit](https://www.reddit.com/r/cmake/)
 * [```/r/cpp``` on Reddit](https://www.reddit.com/r/cpp/)
-* [Mailing Lists](https://cmake.org/mailing-lists/)
+* [Official Discourse Forum](https://discourse.cmake.org/)
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/cmake)
 
 ## Resources
