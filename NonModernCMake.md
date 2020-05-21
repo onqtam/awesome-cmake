@@ -1,4 +1,4 @@
-# Awesome CMake [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Non-Modern (but still awesome) CMake [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/onqtam/awesome-cmake/master/cmake-logo.svg" align="right" width="100">](https://cmake.org/)
 
@@ -6,8 +6,18 @@
 
 Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.md)).
 
+This file contains links worth taking a look, but they use obsolete practices which are considered non-modern - like not using `target_*`-based dependency management - see [`#16`](https://github.com/onqtam/awesome-cmake/issues/16) and [`#42`](https://github.com/onqtam/awesome-cmake/pull/42) for more details.
 
 ## Contents
+
+- [Community](#community)
+- [Resources](#resources)
+- [Package Management / Build Systems](#package-management--build-systems)
+- [Modules](#modules)
+- [Utility Scripts](#utility-scripts)
+- [Toolchains](#toolchains)
+- [Examples / Templates](#examples--templates)
+- [Other](#other)
 
 ## Community
 
