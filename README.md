@@ -6,6 +6,8 @@
 
 Your contributions are highly welcome (first see [CONTRIBUTING.md](CONTRIBUTING.md)).
 
+There is another file [`NonModernCMake.md`](NonModernCMake.md) with other links worth taking a look, but they use obsolete practices which are considered non-modern - like not using `target_*`-based dependency management - see issue https://github.com/onqtam/awesome-cmake/issues/16 and PR https://github.com/onqtam/awesome-cmake/pull/42 for more details.
+
 ## Contents
 
 - [Community](#community)
