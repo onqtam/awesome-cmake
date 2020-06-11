@@ -163,6 +163,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [pitchfork](https://github.com/vector-of-bool/pitchfork) - A set of conventions for native C and C++ projects. [```[MIT]```][MIT]
 * [cmake-examples](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects. [```[MIT]```][MIT]
 * [cpp-project](https://github.com/bsamseth/cpp-project) - Boiler plate for C++ projects - tests, CI, coverage, docs. [```[UNLICENSE]```][UNLICENSE]
+* [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management, tests using [doctest](https://github.com/onqtam/doctest) and much more. [```[UNLICENSE]```][UNLICENSE]
 
 ## Other
 
