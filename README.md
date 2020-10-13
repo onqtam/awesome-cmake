@@ -136,7 +136,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cmake-avr](https://github.com/mkleemann/cmake-avr) - CMake toolchain for AVR. [```[LICENSE]```](https://github.com/mkleemann/cmake-avr/blob/master/LICENSE)
 * [arduino-cmake](https://github.com/francoiscampbell/arduino-cmake) - This is the CMake project settings for the Arduino platform. [```[MPL]```][MPL]
 * [polly](https://github.com/ruslo/polly) - Collection of CMake toolchain files and scripts for cross-platform build and CI testing. [```[BSD2]```][BSD-2-Clause]
-* [toolchains](https://github.com/mosra/toolchains) - For crosscompiling with CMake. They are meant to be mainly used on ArchLinux. ```[NO LICENSE]```
+* [toolchains](https://github.com/mosra/toolchains) - For cross-compiling with CMake. They are meant to be mainly used on ArchLinux. ```[NO LICENSE]```
 * [cmake](https://github.com/staticlibs/cmake/tree/master/toolchains) - Collection of CMake toolchain files, mostly for static linking. [```[APACHE2]```][APACHE2]
 * [Arduino-CMake-Toolchain](https://github.com/a9183756-gh/Arduino-CMake-Toolchain) - CMake toolchain for all official and 3rd party Arduino platforms. [```[MIT]```][MIT]
 
