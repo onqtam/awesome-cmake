@@ -96,6 +96,7 @@ There is another file [`NonModernCMake.md`](NonModernCMake.md) with other links 
 * [YCM](https://github.com/robotology/ycm) - Extra CMake Modules for [Yet Another Robot Platform](https://github.com/robotology/yarp) and friends. [```[BSD3]```][BSD-3-Clause]
 * [CMakeCM](https://github.com/AnotherFoxGuy/CMakeCM) - CMake Community Modules. ```[NO LICENSE]```
 * [Metabench](https://github.com/ldionne/metabench) - CMake module for compile-time microbenchmarks. [```[BOOST]```][BOOST]
+* [Oranges](https://github.com/benthevining/Oranges) - [Ben Vining](https://github.com/benthevining)'s library of CMake modules and toolchains [```[GPL]```][GPL]
 
 ## Utility Scripts
 
