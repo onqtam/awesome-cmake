@@ -165,6 +165,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cmake-examples](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects. [```[MIT]```][MIT]
 * [cpp-project](https://github.com/bsamseth/cpp-project) - Boiler plate for C++ projects - tests, CI, coverage, docs. [```[UNLICENSE]```][UNLICENSE]
 * [ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management, tests using [doctest](https://github.com/onqtam/doctest) and much more. [```[UNLICENSE]```][UNLICENSE]
+* [SeeMake](https://github.com/MhmRhm/SeeMake) - A feature-packed, ready-to-use CMake template with testing, static and dynamic checks, coverage reports, and more. [```[MIT]```][MIT]
 
 ## Other
 
