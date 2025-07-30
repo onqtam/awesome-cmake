@@ -126,6 +126,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [ixm](https://github.com/slurps-mad-rips/ixm) - Make CMake less painful when trying to write Modern Flexible CMake.  [```[MIT]```][MIT]
 * [CMakeCooking](https://github.com/hakuch/CMakeCooking) - Flexible development environments for CMake projects with external dependencies
 . [```[APACHE2]```][APACHE2]
+* [fetch_paths.cmake](https://github.com/XiaoLey/fetch_paths.cmake) - Lightweight utility to simplify file/directory path retrieval in CMake, supporting dynamic searches and flexible output formats. [```[MIT]```](https://github.com/XiaoLey/fetch_paths.cmake/blob/main/LICENSE)
 
 ## Toolchains
 
