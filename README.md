@@ -78,6 +78,7 @@ There is another file [`NonModernCMake.md`](NonModernCMake.md) with other links 
 * [vcpkg](https://github.com/Microsoft/vcpkg) - A tool to acquire and build C++ open source libraries. Uses CMake internally as a build script language. [```[MIT]```][MIT]
 * [pmm](https://github.com/AnotherFoxGuy/pmm) - PMM is a module for CMake that manages... package managers. [```[MIT]```][MIT]
 * [cpm](https://github.com/TheLartians/CPM) - A setup-free CMake + git dependency manager. [```[MIT]```][MIT]
+* [FetchDependency](https://github.com/jpetrie/fetch-dependency) - Configuration-time retrieval, configuration and building of dependencies. [```[MIT]```][MIT]
 
 ## Modules
 
