@@ -189,6 +189,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cmake-checks-cache](https://github.com/cristianadam/cmake-checks-cache) - CMake checks cache helper modules. [```[MIT]```][MIT]
 * [cmake_check](https://github.com/DaelDe/cmake_check) - Static analysis (linter) for the CMake language (e.g. to enforce modern CMake rules). [```[MIT]```][MIT]
 * [cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake Language Server Protocol Implementation. [```[MIT]```][MIT]
+* [cmake-xray](https://github.com/pt9912/cmake-xray) - Analyze and diagnose CMake-based C++ builds from compile databases and CMake File API data. [```[MIT]```][MIT]
 * [cmake-maven-plugin](https://github.com/cmake-maven-project/cmake-maven-project) - CMake integration for Maven builds. [```[APACHE2]```][APACHE2]
 * [version-from-git](https://github.com/MhmRhm/version-from-git) - Bake git information into your binary. [```[MIT]```][MIT]
 * [SoCMake](https://github.com/HEP-SoC/SoCMake) - CMake based build system for hardware (ASIC, FPGA) and System-on-Chip build automation. [```[LGPL]```][LGPL]
