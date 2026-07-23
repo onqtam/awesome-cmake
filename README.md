@@ -98,6 +98,7 @@ There is another file [`NonModernCMake.md`](NonModernCMake.md) with other links 
 * [CMakeCM](https://github.com/AnotherFoxGuy/CMakeCM) - CMake Community Modules. ```[NO LICENSE]```
 * [Metabench](https://github.com/ldionne/metabench) - CMake module for compile-time microbenchmarks. [```[BOOST]```][BOOST]
 * [Oranges](https://github.com/benthevining/Oranges) - [Ben Vining](https://github.com/benthevining)'s library of CMake modules and toolchains [```[GPL]```][GPL]
+* [better.cmake](https://gitlab.com/copr-projekte/better-cmake) - Collection of modern CMake extensions [```[APACHE2]```][APACHE-2.0]
 
 ## Utility Scripts
 
